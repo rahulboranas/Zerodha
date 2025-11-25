@@ -1,0 +1,25 @@
+.nav-item{
+  margin-left: 40px;
+}
+  .foot-point {
+  padding-top: 8px; 
+  display: inline-block; 
+  text-decoration: none;
+  color: rgb(108, 117, 125);
+
+}
+.tdnone{
+  text-decoration: none;
+}
+#supportHero{
+  background-color: rgb(56,126,209);
+  color: white;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}  
+#supportHero a{
+   padding-right: 20px;
+}
