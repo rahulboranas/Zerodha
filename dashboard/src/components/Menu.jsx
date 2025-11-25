@@ -18,7 +18,7 @@ function Menu() {
 
   return (
     <div className="menu-container">
-<a href="  http://localhost:5173/"> <img src="logo.png" style={{ width: "40px" }} alt="Logo" /></a>  
+<a href="https://zerodha-t9hi.vercel.app/"> <img src="logo.png" style={{ width: "40px" }} alt="Logo" /></a>  
       <div className="menus">
         <ul>
             
