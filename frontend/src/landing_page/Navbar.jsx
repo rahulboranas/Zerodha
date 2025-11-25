@@ -30,7 +30,7 @@ function Navbar() {
                                 <Link class="nav-link active" to="/Supports">Support</Link>
                             </li>    
                              <li class="nav-item">
-                                <a class="nav-link active" href=' http://localhost:5174/'>Dashboard</a>
+                                <a class="nav-link active" href='https://zerodha-l2fe.vercel.app/'>Dashboard</a>
                             </li>                                   
                         </ul>
                         </form>
