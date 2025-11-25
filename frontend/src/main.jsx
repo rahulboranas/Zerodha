@@ -6,7 +6,7 @@ import './index.css'
 import Navbar from './landing_page/Navbar.jsx'
 import HomePage from './landing_page/home/HomePage.jsx'
 import SupportPage from './landing_page/supports/SupportPage.jsx'
-import Signup from './landing_page/signup/Signup.jsx'
+
 import PricingPage from './landing_page/pricing/PricingPage.jsx'
 import ProductPage from './landing_page/products/ProductPage.jsx'
 import Footer from './landing_page/Footer.jsx'
@@ -19,7 +19,7 @@ createRoot(document.getElementById('root')).render(
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/Signup" element={<Signup />} />
+       
         <Route path="/About" element={<AboutPage />} />
         <Route path="/Pricing" element={<PricingPage />} />
         <Route path="/Products" element={<ProductPage />} />
