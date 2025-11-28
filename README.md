@@ -4,6 +4,7 @@ A simple Zerodha UI Clone built using React, Node.js, Express, MongoDB.
 🚀 Tech Stack
 
 Frontend
+
 React
 React Router
 Axios
@@ -11,25 +12,27 @@ Vite
 CSS (plain)
 
 Dashboard
-React
-Axios
-Vite
+
+React,
+Axios,
+Vite,
 
 Backend
-Node.js
-Express
-MongoDB (Mongoose)
-CORS
+
+Node.js,
+Express,
+MongoDB (Mongoose),
+CORS,
 dotenv
 
 ✨ Features (Current)
 
-Clean Zerodha-like UI
-Separate Admin Dashboard
-API-ready backend
-Modular folder structure
+Clean Zerodha-like UI,
+Separate Admin Dashboard,
+API-ready backend,
+Modular folder structure,
 
 🛠 Upcoming Features
 
-Authentication (JWT)
+Authentication (JWT) :-
 Full Mobile Responsive Design
